@@ -1,4 +1,4 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="新加坡",HBO
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941648
 #EXTINF:-1 tvg-name="HBOHITS" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="新加坡",HBO Hits
