@@ -51,12 +51,8 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941577
 #EXTINF:-1 tvg-name="CINEMAWORLD" tvg-logo="https://upload.112114.xyz/logo/CINEMAWORLD.png" group-title="新加坡",CINEMAWORLD
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941658
-
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/NowJelli.png" group-title="新加坡",NOW紫金国际台
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941630
-
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/CNN%20International.png" group-title="新加坡",CNN
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690
 #EXTINF:-1 tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/BBC%20World%20News.png" group-title="新加坡",BBC World News
@@ -69,7 +65,6 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941611
 #EXTINF:-1 tvg-name="NHKWORLD" tvg-logo="https://upload.112114.xyz/logo/NHK%20WORLD-JAPAN.png" group-title="新加坡",NHK World Japan
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941610
-
 #EXTINF:-1 tvg-name="SKYNEWS" tvg-logo="https://media.info/i/lf/300/1641766200/1083.png" group-title="新加坡",Sky News
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941684
 #EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="新加坡",Fox News
@@ -80,11 +75,3 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941687
 #EXTINF:-1 tvg-name="CHANNELNEWSASIA" tvg-logo="https://upload.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="新加坡",CNA
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941688
-
-
-
-
-
-
-
-
