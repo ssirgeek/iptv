@@ -1,0 +1,172 @@
+#EXTM3U
+#EXTINF:0,CNN1
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,CNN2
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,CNN3
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0,CNN4
+https://rakuten-cnninternational-1-de.lg.wurl.tv/playlist.m3u8
+#EXTINF:0,CNN5
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0,CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,BBCWorldNews1
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:0,BBCWorldNews2
+http://meumd.com:80/rootiptv/5176iXo7/126063
+#EXTINF:0,BBCWorldNews3
+http://iptvtree.net:8080/ea188ac3/82d52ec7f7/2585
+#EXTINF:0,BBCWorldNews4
+http://185.236.229.31:9981/play/a072
+#EXTINF:0,BBCWorldNews5
+https://tv.googledrivelinks.com/live.php?c=BBC_World_News&q=1200&e=.m3u8
+#EXTINF:0,BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+#EXTINF:0,BBC News
+http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+
+#EXTINF:0,Bloomberg
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:0,Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:0,MSNBC
+http://angeltv.biz:6969/live/darlene/darlene/13522.ts
+
+#EXTINF:0,Reuters TV
+https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
+
+#EXTINF:0,CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+
+#EXTINF:0,ABC News USA
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:0,Sky News1
+https://siloh.pluto.tv/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:0,Sky News2
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:0,FOX News NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:0,NBC News 
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:0,Al Jazeera HD
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:0,Global News
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:0,News Asia1
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
+#EXTINF:0,News Asia2
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:0,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+
+#EXTINF:0,NEWS MAX TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
+
+#EXTINF:0,News Max
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:0,Euro News
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:0,NHK华语视界
+https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
+#EXTINF:0,NHKWorld
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+#EXTINF:0,Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:0,RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
+#EXTINF:0,Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:0,Travel XP HD
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941662
+
+#EXTINF:0,BBC Earth
+https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_English&q=1200&e=.m3u8
+
+#EXTINF:0,DISCOVERY D
+https://tv.googledrivelinks.com/live.php?c=Discovery_HD_World&q=1200&e=.m3u8
+
+#EXTINF:0,Travel Adventure1
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+#EXTINF:0,Travel Adventure2
+http://46.19.100.174:4450/play/a009/index.m3u8
+
+#EXTINF:0,Tastemade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:0,LOVE NATURE
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+
+#EXTINF:0,Love Nature1
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:0,Love Nature2
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:0,Discovery1
+http://185.59.223.102:8080/discovery/index.m3u8
+#EXTINF:0,Discovery2
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/42058
+
+#EXTINF:0,Nat Geographic
+http://185.59.223.102:8080/natgeo/index.m3u8
+
+#EXTINF:0,Nat Geo People
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/6914
+
+#EXTINF:0,Nat Geo Wild
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1379
+
+#EXTINF:0,Nat Geo Wildᴴᴰ
+http://185.59.223.102:8080/natgeowild/index.m3u8
+
+#EXTINF:0,OUTSIDE TV
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+
+#EXTINF:0,Animal Planet
+http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1377
+
+#EXTINF:0,People TV
+https://lnc-people-tv.tubi.video/playlist1080p.m3u8
+
+#EXTINF:0,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:0,InWonder TV
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:0,NASA TV
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+
+#EXTINF:0,NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:0,MTV音乐频道
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+#EXTINF:0,VOA Global English 
+https://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+
+#EXTINF:0,VOA (English)
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
